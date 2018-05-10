@@ -17,8 +17,9 @@ include "conn.php";
 session_start();
 
 ?>
-<h1>&nbsp &nbsp Students with conflicts in aadhar details</h1>
-		 <table id="getdata" class="table" class="scrollmenu" style="overflow-x:scroll;">
+<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Students with conflicts in aadhar details</h3>
+<div class="container s8">
+		 <table id="getdata" class="table" class="scrollmenu" style="overflow-x:scroll;" class="">
                   <thead>
                     <tr>
                      
@@ -52,6 +53,8 @@ session_start();
 <?php
 	  }
 ?>		
-
+</tbody>
+</table>
+</div>
 </body>
 </html>
