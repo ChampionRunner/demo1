@@ -20,7 +20,7 @@
                <div id="main" class="card">
                   <div class="card-content">
                      <span class="card-title">
-                        <h5><b>External Criteria</b></h5>
+                        <h5><b>Multiple filter Criteria</b></h5>
                         <div>
                            <form method="POST" action="">
                               <p>
